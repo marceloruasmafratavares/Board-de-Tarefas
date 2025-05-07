@@ -1,0 +1,39 @@
+mai. 07, 2025 2:24:05 PM liquibase.changelog
+INFORMAÇÕES: Reading resource: db/changelog/migrations/db.changelog-202505031412.sql
+mai. 07, 2025 2:24:05 PM liquibase.changelog
+INFORMAÇÕES: Reading resource: db/changelog/migrations/db.changelog-202505031636.sql
+mai. 07, 2025 2:24:05 PM liquibase.changelog
+INFORMAÇÕES: Reading resource: db/changelog/migrations/db.changelog-202505031644.sql
+mai. 07, 2025 2:24:05 PM liquibase.changelog
+INFORMAÇÕES: Reading resource: db/changelog/migrations/db.changelog-202505031649.sql
+mai. 07, 2025 2:24:05 PM liquibase.changelog
+INFORMAÇÕES: Reading resource: db/changelog/migrations/db_changelog-202505071103.sql
+mai. 07, 2025 2:24:05 PM liquibase.changelog
+INFORMAÇÕES: Reading from board.databasechangelog
+Database is up to date, no changesets to execute
+mai. 07, 2025 2:24:05 PM liquibase.changelog
+INFORMAÇÕES: Reading from board.databasechangelog
+
+UPDATE SUMMARY
+Run:                          0
+Previously run:               5
+Filtered out:                 0
+-------------------------------
+Total change sets:            5
+
+mai. 07, 2025 2:24:05 PM liquibase.util
+INFORMAÇÕES: UPDATE SUMMARY
+mai. 07, 2025 2:24:05 PM liquibase.util
+INFORMAÇÕES: Run:                          0
+mai. 07, 2025 2:24:05 PM liquibase.util
+INFORMAÇÕES: Previously run:               5
+mai. 07, 2025 2:24:05 PM liquibase.util
+INFORMAÇÕES: Filtered out:                 0
+mai. 07, 2025 2:24:05 PM liquibase.util
+INFORMAÇÕES: -------------------------------
+mai. 07, 2025 2:24:05 PM liquibase.util
+INFORMAÇÕES: Total change sets:            5
+mai. 07, 2025 2:24:05 PM liquibase.util
+INFORMAÇÕES: Update summary generated
+mai. 07, 2025 2:24:05 PM liquibase.command
+INFORMAÇÕES: Command execution complete
